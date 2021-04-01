@@ -1,0 +1,19 @@
+{
+  "name": "emoji-grimoire",
+  "version": "1.0.0",
+  "description": "Pollux Emoji List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolestarLabs/emoji-grimoire.git"
+  },
+  "author": "Flicky",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PolestarLabs/emoji-grimoire/issues"
+  },
+  "homepage": "https://github.com/PolestarLabs/emoji-grimoire#readme"
+}
