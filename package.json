@@ -1,6 +1,6 @@
 {
   "name": "@polestar/emoji-grimoire",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Pollux Emoji List",
   "main": "index.js",
   "scripts": {

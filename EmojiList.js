@@ -274,6 +274,8 @@ const POLLUXES = {
 const BRANDS = {
   reddit: "<:reddit:510526878038360074>",
   twitter: "<:twitter:510526878139023380>",
+  soundcloud: " <:soundcloud:827676494301495338>",
+  youtube: "<:youtube:827676494419329064>"
 }
 
 const MISC = {
@@ -404,7 +406,7 @@ const emojibank = {
   mute: "<:Mute:338151856759111681>",
   unmute: "<:Unmute:338151856931078145>",
   pause: "<:Pause:338151856947855362>",
-  youtube: "<:Youtube:338151857014833153>",
+  
   play: "<:PLay:338151857199513600>",
   stop: "<:Stop:338151857379606528>",
   privacy: "<:Privacy:338152581429985281>",
