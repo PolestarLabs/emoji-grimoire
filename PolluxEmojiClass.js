@@ -3,8 +3,8 @@ const globalEmojis = [];
 
 
 async function createShallowEmojiBank(PLX) {
-  PLX.guilds.forEach(async (G) => {
-    G.emojis.forEach(async (e) => {
+  PLX.guilds?.forEach(async (G) => {
+    G.emojis?.forEach(async (e) => {
       globalEmojis.push(e);
     });
   });
