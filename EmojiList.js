@@ -10,6 +10,8 @@ const POLARIS_UI = {
   channel: "<:CHANNEL:763615045099323392>",
   override: "<:override:763615044520509502>",
 
+  new: "<a:NEW:638219587627909130>",
+
   on_small: "<:swon:763615045024088104>",
   off_small: "<:swpartial:763615045048467456>",
   partial_small: "<:swoff:763615045174427649>",
@@ -495,7 +497,6 @@ const emojibank = {
   no1: "<:no1:343590771967918080>",
   lock: "<:lock:343590771913392130>",
   strawb: "<:strawb:343590771930300417>",
-  new: "<:new:343590772052066315>",
   sheriff: "<:sheriff:343590772098072576>",
   thumbs: "<:thumbs:343590772135952384>",
   siren: "<:siren:343590772144078868>",
