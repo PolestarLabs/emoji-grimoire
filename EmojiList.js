@@ -1,5 +1,6 @@
 // _PLX[epic=Utilities] Emojis File
 const POLARIS_UI = {
+
   nope: "<:NOPE:763616715036033084>",
   yep: "<:YEP:763616714914922527>",
   maybe: "<:MAYB:763616754743115796>",
@@ -141,7 +142,8 @@ const POLARIS_UI = {
   dnd: "<:DND:598873604121165846>",
   AWY: "<:AWY:598873604431806483>",
   away: "<:AWY:598873604431806483>",
-  loading: "<a:waitafuckingmoment:590604600319672341>",
+  loading: "<a:polluxloading:845940929625063466>",
+  loading_old: "<a:waitafuckingmoment:590604600319672341>",
 
   // INVENTORY
 
